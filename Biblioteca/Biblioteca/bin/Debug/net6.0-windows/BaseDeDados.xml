@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BaseDeDados xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/CadastroBiblioteca">
+  <listaDePessoas>
+    <CadastroPessoa>
+      <dataDeNascimento>1982-06-07T00:00:00</dataDeNascimento>
+      <nome>Renato</nome>
+      <nomeDaRua>Rua</nomeDaRua>
+      <numeroDaCasa>65</numeroDaCasa>
+      <numeroDoDocumento>666</numeroDoDocumento>
+    </CadastroPessoa>
+    <CadastroPessoa>
+      <dataDeNascimento>1987-12-26T00:00:00</dataDeNascimento>
+      <nome>Queli Schenkel</nome>
+      <nomeDaRua>tews'</nomeDaRua>
+      <numeroDaCasa>85</numeroDaCasa>
+      <numeroDoDocumento>999</numeroDoDocumento>
+    </CadastroPessoa>
+  </listaDePessoas>
+</BaseDeDados>
